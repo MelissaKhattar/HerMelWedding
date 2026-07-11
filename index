@@ -952,7 +952,7 @@ document.getElementById('icalBtn').href = URL.createObjectURL(icsBlob);
 })();
 
 /* ════════ RSVP FORM ════════ */
-const FORM_ACTION_URL = "https://docs.google.com/forms/d/e/1FAIpQLSf_OionX-MTtXegbhl4_pGGaKa4uDLhqQbF5poCQncslonJqw/formResponse";
+const FORM_ACTION_URL = "https://docs.google.com/forms/d/e/1FAIpQLScxMfwxPLdmPMnzYiS6u4xh5MYxfY4CTOJsSisaPqWR8fjTZg/formResponse";
 const restOfForm = document.getElementById('restOfForm');
 const yesOnly = document.querySelector('.yes-only');
 const guestsField = document.getElementById('guestsField');
