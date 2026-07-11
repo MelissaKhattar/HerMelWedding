@@ -429,7 +429,7 @@ footer a{color:var(--hot);text-decoration:none}
       <div class="card reveal reveal-delay-4">
         <span class="ico">🛏️</span>
         <h3>Where to Stay</h3>
-        <p>This time round, you'll need to book your own hotel  -  there just aren't enough beds at the villa for everyone. But you're welcome to hang out with us there <strong>any time, any day</strong>, no invitation needed twice.</p>
+        <p>You'll need to book your own hotel  -  there just aren't enough beds at the villa for everyone. But you're welcome to hang out with us there <strong>any time, any day</strong>, no invitation needed twice.</p>
         <span class="mono">Nearby hotel picks below ↓</span>
       </div>
     </div>
@@ -446,32 +446,52 @@ footer a{color:var(--hot);text-decoration:none}
     <span class="tag reveal" style="background:var(--ink);color:var(--sky)">Book your own</span>
     <h2 class="reveal reveal-delay-1">A few nearby picks</h2>
     <p class="lead reveal reveal-delay-2" style="margin-top:-.6rem;margin-bottom:1rem">
-      Hydra is tiny, car-free, and gets busy in June  -  the sooner you book, the better your pick. Here are a few spots at different price points, all a short walk or water-taxi from us.
+      We're in Pigadia (Thermisia), on the mainland facing Hydra island  -  not on Hydra itself, so no ferries needed. It's a small area and June books up, so grab a spot early. Here are a few picks at different price points, all a short drive from the villa.
     </p>
     <div class="cards">
       <div class="card reveal reveal-delay-1">
-        <span class="ico">⚓</span>
-        <h3>Hotel Sophia</h3>
-        <p>Friendly, traditional, and the closest option to the ferry and the harbour. Great if you want to be in the middle of everything.</p>
+        <span class="ico">🏖️</span>
+        <h3>V&amp;E's Apartments</h3>
+        <p>Self-catering apartments right on Pigadia Beach, a few minutes' walk from the villa  -  sea views, private beach access, easy on the budget.</p>
+        <span class="mono"><a href="https://www.booking.com/hotel/gr/v-amp-e-39-s-apartments.html" target="_blank" style="color:var(--hot)">Book on Booking.com ↗</a></span>
       </div>
       <div class="card reveal reveal-delay-2">
-        <span class="ico">🏛️</span>
-        <h3>Hydroussa Hotel</h3>
-        <p>Quiet square lined with lemon trees, a short stroll from the port. Comfortable and easy on the wallet.</p>
+        <span class="ico">🍋</span>
+        <h3>Ktima Develekou</h3>
+        <p>Also right in Pigadia, a few steps from the beach  -  cosy self-catering apartments, lovely hosts, and a big fan-favourite breakfast.</p>
+        <span class="mono"><a href="https://www.booking.com/hotel/gr/ktema-debelekou.html" target="_blank" style="color:var(--hot)">Book on Booking.com ↗</a></span>
       </div>
       <div class="card reveal reveal-delay-3">
-        <span class="ico">🌊</span>
-        <h3>Bratsera Hotel</h3>
-        <p>A characterful old sponge-factory turned boutique hotel, with a lovely courtyard pool  -  a bit more of a treat.</p>
+        <span class="ico">🕯️</span>
+        <h3>Vassia Holiday Homes</h3>
+        <p>Cosy standalone houses tucked in an olive grove near Thermisia, just steps from the water  -  quiet, family-run, and great value.</p>
+        <span class="mono"><a href="https://www.booking.com/hotel/gr/vassia-holiday-homes.html" target="_blank" style="color:var(--hot)">Book on Booking.com ↗</a></span>
       </div>
       <div class="card reveal reveal-delay-4">
-        <span class="ico">💎</span>
-        <h3>Mandraki Beach Resort</h3>
-        <p>If you want to push the boat out: beachfront and a little more removed, with a water-taxi into town.</p>
+        <span class="ico">🛶</span>
+        <h3>Villa Denni</h3>
+        <p>A renovated villa in the pretty canal village of Porto Hydra, steps from a private beach  -  lovely for a couple or small family.</p>
+        <span class="mono"><a href="https://www.booking.com/hotel/gr/villa-denni.html" target="_blank" style="color:var(--hot)">Book on Booking.com ↗</a></span>
+      </div>
+      <div class="card reveal reveal-delay-5">
+        <span class="ico">🛎️</span>
+        <h3>Therme Sea Luxury Lodge</h3>
+        <p>Two beachfront villas with a lovely infinity pool  -  a bit more of a treat, and a favourite for couples.</p>
+        <span class="mono"><a href="https://www.booking.com/hotel/gr/thermesea-luxury-lodge.en-gb.html" target="_blank" style="color:var(--hot)">Book on Booking.com ↗</a></span>
       </div>
     </div>
     <p class="lead reveal reveal-delay-3" style="margin-top:1.6rem;font-size:.95rem">
-      Feel free to compare more options on Booking.com or Airbnb  -  and remember, whatever you book, you're always welcome to swing by the villa and hang out with us, any day, any time.
+      Feel free to compare more options in Pigadia, Thermisia, or Ermioni on Booking.com or Airbnb  -  and remember, whatever you book, you're always welcome to swing by the villa and hang out with us, any day, any time.
+    </p>
+    <div class="gifts-card reveal reveal-delay-4" style="margin-top:1.6rem">
+      <span class="ico" aria-hidden="true">🏡</span>
+      <h3>Want to split a bigger place with other guests?</h3>
+      <p>
+        If there's space and a few of you fancy booking a bigger Airbnb or villa together instead of separate hotel rooms, just say the word  -  we're happy to help coordinate, put people in touch, and sort out the group chat logistics. Just let us know in your RSVP note or drop us an email.
+      </p>
+    </div>
+    <p class="lead reveal reveal-delay-4" style="margin-top:1.2rem;font-size:.95rem">
+      One more thing: if a bed at the villa opens up  -  a cancellation, a bit of spare space, whatever  -  we'll let you know.
     </p>
   </div>
 </section>
